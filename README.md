@@ -6,6 +6,8 @@ SAN JOSE, California, Apr. 16, 2024 – Upstage, a pioneering AI company special
 
 Upstage's flagship Solar LLM has earned acclaim for its lightning-fast performance and unparalleled cost-efficiency, powered by its unique Depth-Up Scaling (DUS) technique. The state-of-the-art model has already delivered use cases across leading enterprises in many industrial domains. Available via on-premises as well as API integration through platforms like Amazon SageMaker JumpStart, Solar provides a versatile and accessible alternative to larger, more resource-intensive models developed by tech giants.
 
+- https://www.upstage.ai/feed/press/upstage-series-b-funding
+
 ### Solar Chat and Solar API 
 https://console.upstage.ai/home
 
